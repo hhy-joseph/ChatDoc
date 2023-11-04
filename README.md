@@ -1,3 +1,7 @@
+# ChatDoc
+
+This is a implement of a Q&A systems over docx documents using GPT-3. Retrieval-augmented generation (RAG) with langchain framework is used. 
+A Gradio interface is available.
 This is a jupyter notebook used for Q&A over docx documents using GPT-3
 This library provides a simple and easy-to-use interface for building Q&A systems over docx documents using GPT-3. It takes care of all the details of loading and preprocessing the data, creating the retrieval chain, and generating answers.
 
@@ -10,8 +14,7 @@ This library provides a simple and easy-to-use interface for building Q&A system
   
 # Requirements
   Python 3.7+
-  PyTorch 1.7+
-  TensorFlow 2.6+
+  langchain
   OpenAI API key
   Gradio 
   
