@@ -5,6 +5,10 @@ A Gradio interface is available.
 This is a jupyter notebook used for Q&A over docx documents using GPT-3
 This library provides a simple and easy-to-use interface for building Q&A systems over docx documents using GPT-3. It takes care of all the details of loading and preprocessing the data, creating the retrieval chain, and generating answers.
 
+# Interface
+
+![](./imginterface.png)
+
 
 # Features
   Simple and easy-to-use interface
