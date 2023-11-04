@@ -8,6 +8,7 @@ This library provides a simple and easy-to-use interface for building Q&A system
 # Interface
 
 ![](img/interface.png)
+![](img/inference.png)
 
 
 # Features
